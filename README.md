@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bmtmijhru1phjhmr?svg=true)](https://ci.appveyor.com/project/Sergl82/new-types)
